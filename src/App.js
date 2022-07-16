@@ -8,21 +8,9 @@ function App() {
   const [tasks, setTasks] = useState([
     {
       id: 1,
-      text: "Docs",
-      day: "12/12/3333",
+      text: "Example 1",
+      day: "01/01/2020",
       reminder: true,
-    },
-    {
-      id: 2,
-      text: "Requiremnt",
-      day: "12/12/3333",
-      reminder: true,
-    },
-    {
-      id: 3,
-      text: "Firefly",
-      day: "12/12/3333",
-      reminder: false,
     },
   ]);
 
